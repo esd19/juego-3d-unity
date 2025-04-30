@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Esdras\\Propuesta en 3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|C:\\Users\\Esdras\\Propuesta en 3D\\assets\\ghostcharacter_free\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|solutionrelative:assets\\ghostcharacter_free\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|c:\\users\\esdras\\propuesta en 3d\\assets\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|c:\\users\\esdras\\propuesta en 3d\\assets\\ghostcharacter_free\\scripts\\ghostscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|solutionrelative:assets\\ghostcharacter_free\\scripts\\ghostscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|C:\\Users\\Esdras\\Propuesta en 3D\\assets\\ghostcharacter_free\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B091F2-12CB-03A1-CF8D-7DDC53FBCD60}|Assembly-CSharp.csproj|solutionrelative:assets\\ghostcharacter_free\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\Propuesta en 3D\\Assets\\EnemyFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyFollow.cs",
+              "ToolTip": "C:\\Users\\Esdras\\Propuesta en 3D\\Assets\\EnemyFollow.cs",
+              "RelativeToolTip": "Assets\\EnemyFollow.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:32:16.979Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CameraFollow.cs",
               "DocumentMoniker": "C:\\Users\\Esdras\\Propuesta en 3D\\Assets\\GhostCharacter_Free\\Scripts\\CameraFollow.cs",
               "RelativeDocumentMoniker": "Assets\\GhostCharacter_Free\\Scripts\\CameraFollow.cs",
@@ -34,8 +51,7 @@
               "RelativeToolTip": "Assets\\GhostCharacter_Free\\Scripts\\CameraFollow.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:35:38.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T21:35:38.962Z"
             },
             {
               "$type": "Document",
@@ -45,7 +61,7 @@
               "RelativeDocumentMoniker": "Assets\\GhostCharacter_Free\\Scripts\\GhostScript.cs",
               "ToolTip": "C:\\Users\\Esdras\\Propuesta en 3D\\Assets\\GhostCharacter_Free\\Scripts\\GhostScript.cs",
               "RelativeToolTip": "Assets\\GhostCharacter_Free\\Scripts\\GhostScript.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBwAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T21:35:30.468Z",
               "EditorCaption": ""
